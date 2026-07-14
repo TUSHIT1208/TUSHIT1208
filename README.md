@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm a Full-Stack Web Developer 👋
 
-<!--
-**TUSHIT1208/TUSHIT1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate web developer with hands-on experience building real-world projects. I love working across the entire stack, from crafting responsive user interfaces to designing robust backend systems.
 
-Here are some ideas to get you started:
+**🚀 What I do:**
+* Contribute to both frontend and backend development.
+* Build responsive designs and integrate RESTful APIs.
+* Manage databases and collaborate on cross-functional teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Tech Stack:**
+* **Frontend:** HTML, CSS, JavaScript, Ajax
+* **Backend:** Laravel, PHP
+* **Concepts:** RESTful APIs, Database Management, Responsive Design
+
+**📫 How to reach me:**
+* LinkedIn: [Link to your LinkedIn]
+* Portfolio: [Link to your Portfolio if you have one]
