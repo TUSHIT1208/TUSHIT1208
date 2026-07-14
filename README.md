@@ -9,7 +9,7 @@ I am a passionate web developer with hands-on experience building real-world pro
 
 **💻 Tech Stack:**
 * **Frontend:** HTML, CSS, JavaScript, Ajax, Laravel
-* **Backend:** Laravel, PHP
+* **Backend:** Laravel, PHP, Mysql
 * **Concepts:** Database Management, Responsive Design
 
 **📫 How to reach me:**
