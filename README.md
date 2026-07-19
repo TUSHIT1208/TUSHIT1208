@@ -14,4 +14,4 @@ I am a passionate web developer with hands-on experience building real-world pro
 
 **📫 How to reach me:**
 * LinkedIn: https://www.linkedin.com/in/tushit-maisuriya-ba6b15302/
-* Portfolio: [Link to your Portfolio if you have one]
+* Portfolio: https://tushit-maisuriya.lovable.app/
