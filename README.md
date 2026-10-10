@@ -20,7 +20,7 @@
     </td>
     <!-- Right Anime Image Content -->
     <td width="35%" align="center" valign="middle" style="padding: 16px; border: 1.5px solid rgba(56, 189, 248, 0.35); border-top-right-radius: 16px; border-bottom-right-radius: 16px; background: rgba(56, 189, 248, 0.05); border-left: none;">
-      <img src="b522c73f-7be9-46b6-8665-f19e7fbbc14d-removebg-preview.jpg" width="180" alt="Tushit Anime Avatar" style="display: block; border-radius: 8px;" />
+      <img src="profile-char.png" width="180" alt="Tushit Anime Avatar" style="display: block; border-radius: 8px;" />
     </td>
   </tr>
 </table>
