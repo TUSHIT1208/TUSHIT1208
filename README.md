@@ -7,7 +7,20 @@
 
 <br/>
 
-### Laravel Backend Developer | PHP, MySQL | RESTful APIs | Database Management
+<!-- Profile Hero Banner Card (Monica Powell Style) -->
+<table width="100%">
+  <tr>
+    <td width="70%" valign="middle" style="padding: 20px;">
+      <h1>TUSHIT MAISURIYA</h1>
+      <h3>Laravel Backend Developer | PHP, MySQL | RESTful APIs | Database Management</h3>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Ghibli Boy with Laptop" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
