@@ -55,46 +55,11 @@ I am a backend developer specializing in architecting robust web applications wi
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+### 🛠️ Tech Stack & Skills
 
-**Backend & Databases**
-- PHP, Laravel, MySQL, RESTful APIs[cite: 1]
-- Eloquent ORM, Database Migrations, MVC Architecture[cite: 1]
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+<p align="left">
+  <img src="tech-stack.svg" alt="Tushit Tech Stack & Skills" width="100%" />
 </p>
-
-**Frontend & Scripting**
-- HTML5, JavaScript, Tailwind CSS, Ajax[cite: 1]
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Ajax-232733?style=flat-square&logo=ajax&logoColor=white" alt="Ajax" />
-</p>
-
-**DevOps & Version Control**
-- Git, GitHub, cPanel live server deployment[cite: 1]
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
-</p>
-
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Coding Animation" />
-</td>
-</tr>
-</table>
 
 ---
 
