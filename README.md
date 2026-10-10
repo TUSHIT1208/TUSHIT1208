@@ -7,10 +7,23 @@
 
 <br/><br/>
 
-<!-- Profile Hero Banner Card -->
-<p align="left">
-  <img src="profile-char.png" alt="Tushit Maisuriya Banner" width="100%" />
-</p>
+<!-- Hero Banner Card (Monica Powell Reference Layout) -->
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="70%" valign="middle" align="left" style="border: none; padding: 20px 10px;">
+      <h1 style="margin: 0; font-size: 32px; letter-spacing: 1.5px; font-weight: 800;">TUSHIT MAISURIYA</h1>
+      <p style="margin: 8px 0 0 0; font-size: 16px; color: #64748B; font-weight: 400; line-height: 1.5;">
+        Laravel Backend Developer | PHP &amp; MySQL<br/>
+        RESTful APIs | Database Management
+      </p>
+    </td>
+    <td width="30%" valign="middle" align="right" style="border: none; padding: 10px;">
+      <img src="b522c73f-7be9-46b6-8665-f19e7fbbc14d-removebg-preview.jpg" width="170" alt="Tushit Anime Avatar" style="display: block; max-width: 170px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
