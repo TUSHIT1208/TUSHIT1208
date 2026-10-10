@@ -7,15 +7,9 @@
 
 <br/>
 
-### Laravel Backend Developer | PHP, MySQL | RESTful APIs | Database Management | Developing Efficient Web Solutions
+### Laravel Backend Developer | PHP, MySQL | RESTful APIs | Database Management
 
-I am a passionate Laravel Backend Developer with hands-on experience in developing, deploying, and maintaining web applications using PHP, Laravel, and MySQL[cite: 1]. I enjoy solving technical challenges and building reliable solutions that meet business requirements[cite: 1].
-
-My technical expertise includes Laravel MVC Architecture, Eloquent ORM, MySQL Database Management, Backend Logic Implementation, Debugging, and Production Deployment[cite: 1]. I also have experience with HTML, JavaScript, Tailwind CSS, Ajax, Git, and GitHub[cite: 1].
-
-During my professional experience, I have worked on live web applications, collaborated with clients to understand project requirements, implemented business logic, managed server configurations, and resolved technical issues to ensure smooth application performance[cite: 1].
-
-I am eager to take on new challenges, collaborate with talented professionals, and contribute to building efficient, scalable, and maintainable web applications while growing as a backend developer[cite: 1].
+I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
 <p align="left">
   <a href="mailto:tushitmaisuriya@gmail.com"><img src="https://img.shields.io/badge/Email-tushitmaisuriya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -36,11 +30,11 @@ I am eager to take on new challenges, collaborate with talented professionals, a
 ### 📌 Highlighted Projects
 
 * **CodePilot**  
-  An interactive online developer training platform featuring integrated tutorials and an in-browser debugger that eliminates local setup requirements for learners[cite: 1].  
+  An interactive online learning platform integrating video tutorials with an in-browser code debugger that eliminates local environment friction for learners[cite: 1].  
   `Stack: Laravel, Tailwind CSS, Ajax, JavaScript`[cite: 1]
 
 * **Krishna Catering Web Application**  
-  A complete commercial web platform featuring complex calculation-based backend logic, MySQL database management, and live cPanel production deployments[cite: 1].  
+  A complete commercial web platform featuring complex calculation-based backend logic, MySQL management, and live cPanel production deployments[cite: 1].  
   `Stack: Laravel, MySQL, cPanel`[cite: 1]
 
 ---
