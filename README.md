@@ -2,108 +2,87 @@
 
 # Hi there, I'm Tushit Maisuriya 👋
 
-### Associate Laravel Developer | PHP & Laravel Backend Developer
+### Associate Laravel Developer & Backend Engineer
 
-I build reliable web applications, develop backend business logic, manage MySQL databases, and deploy applications to live production servers.
+<!-- Dynamic Animated Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Associate+Laravel+Developer;Backend+Architect;PHP+%26+MySQL+Specialist;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TUSHIT1208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Working as a **Laravel Backend Developer at AQS Infotech**.
-- 🚀 Contributing to the **Krishna Catering Web Application**, including backend development and live production deployment.
-- 🧩 Experienced in PHP, Laravel, MySQL, MVC architecture, database management, and debugging.
-- 🛠️ Familiar with Laravel Migrations, Eloquent ORM, Git, GitHub, and cPanel deployments.
-- 🎓 Pursuing a **Master of Computer Applications (MCA)**.
-- 📚 Interested in learning new technologies and building practical, maintainable web applications.
-
-## 💼 Experience
-
-### Laravel Backend Developer — AQS Infotech
-*January 2026 – Present*
-
-**Project: Krishna Catering Web Application**
-
-- Develop and maintain backend features using Laravel and MySQL.
-- Analyze project requirements and implement business logic, including calculation-based workflows.
-- Deploy code to live production servers through cPanel.
-- Manage database updates, environment configuration, backups, and troubleshooting.
-- Investigate and resolve bugs reported during application use.
-
-### PHP Laravel Intern — AQS Infotech
-*November 2024 – April 2025*
-
-- Developed web application features using Laravel and MVC architecture.
-- Worked with Laravel Migrations and Eloquent ORM to manage database structures and data.
-- Debugged backend code and followed team coding standards and workflows.
-
-## 🚀 Featured Projects
-
-### 1. Krishna Catering Web Application
-**Tech Stack:** Laravel, PHP, MySQL
-
-- A live web application developed and maintained as part of my professional work.
-- Focused on backend functionality, business calculations, database updates, and production deployment.
-
-🔗 **Live Website:** [Add your live website URL here]
-
-### 2. CodePilot — Online Learning Platform
-**Tech Stack:** Laravel, HTML, Tailwind CSS, AJAX, JavaScript
-
-- Built an online learning platform featuring video tutorials and a browser-based code debugger.
-- Designed to help beginners write and test code without requiring a local development setup.
-
-🔗 **GitHub Repository:** [Add your CodePilot repository URL here]
-
-## 🧰 Technical Skills
-
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=flat-square)
-
-### Tools & Programming Languages
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-## 🎓 Education
-
-- **Master of Computer Applications (MCA)** — Sarvajanik College of Engineering and Technology, Surat *(2025–2027, pursuing)*
-- **Bachelor of Computer Applications (BCA)** — Vivekanand College, Surat *(2022–2025)* | CGPA: **8.12/10**
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUSHIT1208&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUSHIT1208&layout=compact&hide_border=true&theme=github_dark)
+<p align="center">
+  <a href="mailto:tushitmaisuriya@gmail.com"><img src="https://img.shields.io/badge/Email-tushitmaisuriya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="tel:+918849439047"><img src="https://img.shields.io/badge/Phone-%2B91%208849439047-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+</p>
 
 </div>
 
 ---
 
+### 🚀 About Me
+
+- 💻 Currently working as a **Laravel Backend Developer** at **AQS infotech**, engineering robust business logic and managing production deployments[cite: 1].
+- 🛠️ Hands-on expertise in **PHP**, **Laravel**, and **MySQL**, focusing on MVC architecture, database migrations, and Eloquent ORM[cite: 1].
+- ⚡ Experienced in handling live production server environments via **cPanel**, routine backups, and server health monitoring[cite: 1].
+- 🎓 Holds a **Bachelor of Computer Applications (BCA)** and currently pursuing a **Master of Computer Applications (MCA)**[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+</p>
+
+**Frontend & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Ajax-232733?style=for-the-badge&logo=ajax&logoColor=white" alt="Ajax" />
+</p>
+
+**Tools & Environment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+</p>
+
+---
+
+### 💡 Featured Projects
+
+- **CodePilot**  
+  An interactive online coding learning platform integrating video tutorials with an in-browser code debugger, eliminating local setup friction for beginners[cite: 1].  
+  *Stack: Laravel, Tailwind CSS, Ajax, JavaScript*[cite: 1]
+
+- **Krishna Catering Web Application**  
+  Production-grade business application featuring custom backend workflows, automated calculation modules, and live client deployments[cite: 1].  
+  *Stack: Laravel, MySQL, cPanel*[cite: 1]
+
+---
+
+### 📊 GitHub Activity & Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-### 🤝 Let's Connect
+<!-- Animated Activity Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
-I'm interested in connecting with developers, learning from the community, and collaborating on useful web development projects.
+---
 
-**Thanks for visiting my profile! ⭐**
-
+<div align="center">
+  <sub>Designed with ❤️ by Tushit Maisuriya</sub>
 </div>
