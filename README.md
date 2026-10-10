@@ -7,25 +7,10 @@
 
 <br/><br/>
 
-<!-- Profile Hero Banner Card (Transparent Glass UI with Light Sky Border) -->
-<table width="100%" style="background-color: transparent; border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Left Typography Content -->
-    <td width="65%" valign="middle" style="padding: 24px; border: 1.5px solid rgba(56, 189, 248, 0.35); border-top-left-radius: 16px; border-bottom-left-radius: 16px; background: rgba(56, 189, 248, 0.05); border-right: none;">
-      <h1 style="margin: 0; font-size: 32px; letter-spacing: 1.5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">TUSHIT MAISURIYA</h1>
-      <p style="margin: 12px 0 0 0; font-size: 16px; color: #64748B; font-weight: 400; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        Laravel Backend Developer | PHP &amp; MySQL<br/>
-        RESTful APIs | Database Management
-      </p>
-    </td>
-    <!-- Right Anime Image Content -->
-    <td width="35%" align="center" valign="middle" style="padding: 16px; border: 1.5px solid rgba(56, 189, 248, 0.35); border-top-right-radius: 16px; border-bottom-right-radius: 16px; background: rgba(56, 189, 248, 0.05); border-left: none;">
-      <img src="profile-char.png" width="180" alt="Tushit Anime Avatar" style="display: block; border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<!-- Profile Hero Banner Card -->
+<p align="left">
+  <img src="hero-card.svg" alt="Tushit Maisuriya Banner" width="100%" />
+</p>
 
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
