@@ -1,0 +1,66 @@
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft Drop Shadow Filter -->
+    <filter id="card-shadow" x="0" y="0" width="850" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dx="0" dy="10"/>
+      <feGaussianBlur stdDeviation="15"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+
+  <!-- Card Background with Shadow -->
+  <rect x="25" y="15" width="800" height="235" rx="16" fill="#FFFFFF" filter="url(#card-shadow)"/>
+
+  <!-- Left Side: Name -->
+  <text x="65" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="900" fill="#1E293B" letter-spacing="1">
+    TUSHIT MAISURIYA
+  </text>
+  
+  <!-- Left Side: Subtitle in Two Gray Lines (Not Bold) -->
+  <text x="65" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#64748B">
+    <tspan x="65" dy="0">Laravel Backend Developer | PHP &amp; MySQL</tspan>
+    <tspan x="65" dy="26">RESTful APIs | Database Management</tspan>
+  </text>
+
+  <!-- Right Side: Illustrated Professional Boy with Laptop -->
+  <g transform="translate(620, 30)">
+    <!-- Hair -->
+    <path d="M50 35 C35 15, 85 10, 85 30 C95 18, 120 30, 110 50 C115 65, 105 75, 105 75 C95 85, 75 88, 55 80 C40 70, 40 50, 50 35 Z" fill="#1E293B"/>
+    <!-- Head / Skin -->
+    <path d="M55 45 C55 35, 100 35, 100 55 C100 80, 88 95, 78 95 C68 95, 55 80, 55 45 Z" fill="#F8D9C0"/>
+    <!-- Hair Detail -->
+    <path d="M52 42 C65 42, 80 32, 98 48 C92 42, 80 38, 70 40 Z" fill="#0F172A"/>
+    <!-- Eyes & Smile -->
+    <circle cx="68" cy="58" r="2.5" fill="#1E293B"/>
+    <circle cx="88" cy="58" r="2.5" fill="#1E293B"/>
+    <path d="M74 72 Q78 77 82 72" stroke="#B45309" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+    <!-- White Shirt Collar -->
+    <path d="M70 95 L78 120 L86 95 Z" fill="#FFFFFF"/>
+    <path d="M62 95 L78 115 L70 95 Z" fill="#E2E8F0"/>
+    <path d="M94 95 L78 115 L86 95 Z" fill="#CBD5E1"/>
+
+    <!-- Dark Suit Body -->
+    <path d="M40 120 C45 98, 62 95, 78 95 C94 95, 111 98, 116 120 L135 210 L21 210 Z" fill="#1E293B"/>
+    <!-- Suit Lapels -->
+    <path d="M48 118 L73 150 L64 118 Z" fill="#0F172A"/>
+    <path d="M108 118 L83 150 L92 118 Z" fill="#0F172A"/>
+
+    <!-- Arms Holding Laptop -->
+    <path d="M30 145 C30 145, 45 175, 70 178 L70 160 C55 158, 45 138, 45 138 Z" fill="#1E293B"/>
+    <path d="M126 145 C126 145, 111 175, 86 178 L86 160 C101 158, 111 138, 111 138 Z" fill="#1E293B"/>
+    <!-- Hands -->
+    <circle cx="70" cy="173" r="7" fill="#F8D9C0"/>
+    <circle cx="86" cy="173" r="7" fill="#F8D9C0"/>
+
+    <!-- Laptop -->
+    <rect x="42" y="152" width="72" height="42" rx="3" fill="#94A3B8" transform="rotate(-6 78 173)"/>
+    <rect x="45" y="155" width="66" height="36" rx="2" fill="#0EA5E9" transform="rotate(-6 78 173)" opacity="0.85"/>
+    <polygon points="35,182 121,173 118,187 32,192" fill="#CBD5E1"/>
+  </g>
+</svg>
