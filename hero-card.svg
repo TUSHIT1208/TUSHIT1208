@@ -1,66 +1,91 @@
-<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <!-- Soft Drop Shadow Filter -->
-    <filter id="card-shadow" x="0" y="0" width="850" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-      <feOffset dx="0" dy="10"/>
-      <feGaussianBlur stdDeviation="15"/>
-      <feComposite in2="hardAlpha" operator="out"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
-      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    <style>
+      /* Responsive text theme adaptation */
+      .card-name {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        letter-spacing: 1.5px;
+        fill: #0F172A;
+      }
+      .card-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        fill: #64748B;
+      }
+      .code-stream {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #0EA5E9;
+        opacity: 0.35;
+      }
+      @media (prefers-color-scheme: dark) {
+        .card-name { fill: #F8FAFC; }
+        .card-sub { fill: #94A3B8; }
+        .code-stream { opacity: 0.5; fill: #38BDF8; }
+      }
+
+      /* Fast coding animation keyframes */
+      @keyframes fastCode {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-160px); }
+      }
+      .streaming-lines {
+        animation: fastCode 3.5s linear infinite;
+      }
+    </style>
+
+    <!-- Translucent Sky-Blue Glass Filter -->
+    <filter id="soft-glow" x="0" y="0" width="850" height="280" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
+
+    <clipPath id="card-clip">
+      <rect x="15" y="15" width="820" height="250" rx="18" />
+    </clipPath>
   </defs>
 
-  <!-- Card Background with Shadow -->
-  <rect x="25" y="15" width="800" height="235" rx="16" fill="#FFFFFF" filter="url(#card-shadow)"/>
+  <!-- Transparent Light Sky Glass Container -->
+  <rect x="15" y="15" width="820" height="250" rx="18" fill="#38BDF8" fill-opacity="0.07" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.5" />
 
-  <!-- Left Side: Name -->
-  <text x="65" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="900" fill="#1E293B" letter-spacing="1">
-    TUSHIT MAISURIYA
-  </text>
-  
-  <!-- Left Side: Subtitle in Two Gray Lines (Not Bold) -->
-  <text x="65" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#64748B">
-    <tspan x="65" dy="0">Laravel Backend Developer | PHP &amp; MySQL</tspan>
-    <tspan x="65" dy="26">RESTful APIs | Database Management</tspan>
-  </text>
+  <!-- Left Side: Typography -->
+  <g transform="translate(60, 0)">
+    <text x="0" y="105" class="card-name">
+      TUSHIT MAISURIYA
+    </text>
+    
+    <text x="0" y="145" class="card-sub">
+      <tspan x="0" dy="0">Laravel Backend Developer | PHP &amp; MySQL</tspan>
+      <tspan x="0" dy="26">RESTful APIs | Database Management</tspan>
+    </text>
+  </g>
 
-  <!-- Right Side: Illustrated Professional Boy with Laptop -->
-  <g transform="translate(620, 30)">
-    <!-- Hair -->
-    <path d="M50 35 C35 15, 85 10, 85 30 C95 18, 120 30, 110 50 C115 65, 105 75, 105 75 C95 85, 75 88, 55 80 C40 70, 40 50, 50 35 Z" fill="#1E293B"/>
-    <!-- Head / Skin -->
-    <path d="M55 45 C55 35, 100 35, 100 55 C100 80, 88 95, 78 95 C68 95, 55 80, 55 45 Z" fill="#F8D9C0"/>
-    <!-- Hair Detail -->
-    <path d="M52 42 C65 42, 80 32, 98 48 C92 42, 80 38, 70 40 Z" fill="#0F172A"/>
-    <!-- Eyes & Smile -->
-    <circle cx="68" cy="58" r="2.5" fill="#1E293B"/>
-    <circle cx="88" cy="58" r="2.5" fill="#1E293B"/>
-    <path d="M74 72 Q78 77 82 72" stroke="#B45309" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Right Side: Fast Code Matrix Animation & Image Container -->
+  <g clip-path="url(#card-clip)">
+    <!-- Animated Streaming Code Lines Behind Image -->
+    <g transform="translate(560, 40)" class="streaming-lines">
+      <text x="0" y="20" class="code-stream">&lt;?php namespace App\Http\Controllers; ?&gt;</text>
+      <text x="0" y="40" class="code-stream">class UserController extends Controller {</text>
+      <text x="15" y="60" class="code-stream">public function buildAPI(Request $req) {</text>
+      <text x="30" y="80" class="code-stream">return response()->json($query->get());</text>
+      <text x="15" y="100" class="code-stream">} DB::beginTransaction();</text>
+      <text x="0" y="120" class="code-stream">public function optimizeCache() {</text>
+      <text x="15" y="140" class="code-stream">Cache::remember('routes', 3600, fn() => ...);</text>
+      <text x="0" y="160" class="code-stream">return $kernel->handle($request);</text>
+      <!-- Repeated lines for continuous loop -->
+      <text x="0" y="180" class="code-stream">&lt;?php namespace App\Http\Controllers; ?&gt;</text>
+      <text x="0" y="200" class="code-stream">class UserController extends Controller {</text>
+      <text x="15" y="220" class="code-stream">public function buildAPI(Request $req) {</text>
+      <text x="30" y="240" class="code-stream">return response()->json($query->get());</text>
+      <text x="15" y="260" class="code-stream">} DB::beginTransaction();</text>
+      <text x="0" y="280" class="code-stream">public function optimizeCache() {</text>
+      <text x="15" y="300" class="code-stream">Cache::remember('routes', 3600, fn() => ...);</text>
+    </g>
 
-    <!-- White Shirt Collar -->
-    <path d="M70 95 L78 120 L86 95 Z" fill="#FFFFFF"/>
-    <path d="M62 95 L78 115 L70 95 Z" fill="#E2E8F0"/>
-    <path d="M94 95 L78 115 L86 95 Z" fill="#CBD5E1"/>
-
-    <!-- Dark Suit Body -->
-    <path d="M40 120 C45 98, 62 95, 78 95 C94 95, 111 98, 116 120 L135 210 L21 210 Z" fill="#1E293B"/>
-    <!-- Suit Lapels -->
-    <path d="M48 118 L73 150 L64 118 Z" fill="#0F172A"/>
-    <path d="M108 118 L83 150 L92 118 Z" fill="#0F172A"/>
-
-    <!-- Arms Holding Laptop -->
-    <path d="M30 145 C30 145, 45 175, 70 178 L70 160 C55 158, 45 138, 45 138 Z" fill="#1E293B"/>
-    <path d="M126 145 C126 145, 111 175, 86 178 L86 160 C101 158, 111 138, 111 138 Z" fill="#1E293B"/>
-    <!-- Hands -->
-    <circle cx="70" cy="173" r="7" fill="#F8D9C0"/>
-    <circle cx="86" cy="173" r="7" fill="#F8D9C0"/>
-
-    <!-- Laptop -->
-    <rect x="42" y="152" width="72" height="42" rx="3" fill="#94A3B8" transform="rotate(-6 78 173)"/>
-    <rect x="45" y="155" width="66" height="36" rx="2" fill="#0EA5E9" transform="rotate(-6 78 173)" opacity="0.85"/>
-    <polygon points="35,182 121,173 118,187 32,192" fill="#CBD5E1"/>
+    <!-- Character Image -->
+    <image xlink:href="profile-char.png" x="590" y="20" width="225" height="255" preserveAspectRatio="xMidYMid meet" />
   </g>
 </svg>
