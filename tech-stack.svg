@@ -14,7 +14,7 @@
         fill: #64748B;
       }
 
-      /* Cursor blink animation */
+      /* Animated cursor and code pulse */
       @keyframes blink {
         0%, 100% { opacity: 1; }
         50% { opacity: 0; }
@@ -23,7 +23,6 @@
         animation: blink 1s infinite;
       }
 
-      /* Animated code line typing */
       @keyframes codePulse {
         0%, 100% { opacity: 0.4; }
         50% { opacity: 0.9; }
@@ -32,7 +31,7 @@
         animation: codePulse 2.5s ease-in-out infinite;
       }
 
-      /* Light and Dark theme adaptation */
+      /* Dark and Light theme adaptation */
       @media (prefers-color-scheme: dark) {
         .card-frame {
           fill: #0284c7;
@@ -57,7 +56,7 @@
     </style>
   </defs>
 
-  <!-- Clean Rounded Card (Matching Hero Card, No Tables) -->
+  <!-- Rounded Card Outline matching Hero Banner -->
   <rect x="5" y="5" width="840" height="330" rx="18" class="card-frame" stroke-width="1.5"/>
 
   <!-- Left Side: Tech Stack Details & Badges -->
