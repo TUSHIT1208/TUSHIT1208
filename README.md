@@ -5,12 +5,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2563EB&center=false&vCenter=true&width=750&lines=Laravel+Backend+Developer;PHP+%7C+MySQL+%7C+RESTful+APIs;Database+Management+%7C+Developing+Efficient+Web+Solutions" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Hero Banner Card (Monica Powell Style) -->
-<p align="center">
-  <img src="hero-card.svg" alt="Tushit Maisuriya - Hero Card" width="100%" />
-</p>
+<!-- Profile Hero Banner Card (Transparent Glass UI with Light Sky Border) -->
+<table width="100%" style="background-color: transparent;">
+  <tr>
+    <td width="65%" valign="middle" style="padding: 24px; border: 1.5px solid rgba(56, 189, 248, 0.35); border-radius: 16px; background: rgba(56, 189, 248, 0.05);">
+      <h1 style="margin: 0; font-size: 32px; letter-spacing: 1px;">TUSHIT MAISURIYA</h1>
+      <p style="margin: 8px 0 0 0; font-size: 16px; color: #64748B; font-weight: 400; line-height: 1.6;">
+        Laravel Backend Developer | PHP &amp; MySQL<br/>
+        RESTful APIs | Database Management
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle" style="padding: 10px; border: 1.5px solid rgba(56, 189, 248, 0.35); border-radius: 16px; background: rgba(56, 189, 248, 0.05);">
+      <img src="b522c73f-7be9-46b6-8665-f19e7fbbc14d-removebg-preview.jpg" width="220" alt="Tushit Character Avatar" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -35,7 +46,7 @@ I am a backend developer specializing in architecting robust web applications wi
 ### 📌 Highlighted Projects
 
 * **CodePilot**  
-  An interactive online learning platform integrating video tutorials with an in-browser code debugger that eliminates local environment friction for learners[cite: 1].  
+  An interactive online developer training platform featuring integrated tutorials and an in-browser debugger that eliminates local setup requirements for learners[cite: 1].  
   `Stack: Laravel, Tailwind CSS, Ajax, JavaScript`[cite: 1]
 
 * **Krishna Catering Web Application**  
@@ -82,7 +93,7 @@ I am a backend developer specializing in architecting robust web applications wi
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Illustration" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Coding Animation" />
 </td>
 </tr>
 </table>
