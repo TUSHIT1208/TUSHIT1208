@@ -1,0 +1,116 @@
+<svg width="850" height="340" viewBox="0 0 850 340" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .section-cat {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+      .section-detail {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 13.5px;
+        font-weight: 400;
+        fill: #64748B;
+      }
+      @media (prefers-color-scheme: dark) {
+        .card-bg {
+          fill: #0284c7;
+          fill-opacity: 0.10;
+          stroke: #38bdf8;
+          stroke-opacity: 0.35;
+        }
+        .section-cat {
+          fill: #F8FAFC;
+        }
+        .section-detail {
+          fill: #94A3B8;
+        }
+      }
+      @media (prefers-color-scheme: light) {
+        .card-bg {
+          fill: #e0f2fe;
+          fill-opacity: 0.75;
+          stroke: #7dd3fc;
+          stroke-opacity: 0.6;
+        }
+        .section-cat {
+          fill: #0F172A;
+        }
+      }
+    </style>
+
+    <clipPath id="gif-rounded">
+      <rect x="520" y="25" width="290" height="290" rx="14" />
+    </clipPath>
+  </defs>
+
+  <!-- Sky Blue Matching Rounded Card Background -->
+  <rect x="5" y="5" width="840" height="330" rx="18" class="card-bg" stroke-width="1.5"/>
+
+  <!-- Left Side: Tech Stack Details -->
+  <g transform="translate(45, 20)">
+    <!-- 1. Backend & Databases -->
+    <text x="0" y="25" class="section-cat">Backend &amp; Databases</text>
+    <text x="0" y="50" class="section-detail">• PHP, Laravel, MySQL, RESTful APIs</text>
+    <text x="0" y="72" class="section-detail">• Eloquent ORM, Database Migrations, MVC Architecture</text>
+    
+    <!-- Backend Badges -->
+    <g transform="translate(0, 85)">
+      <!-- PHP -->
+      <rect x="0" y="0" width="50" height="22" rx="4" fill="#777BB4"/>
+      <text x="25" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">PHP</text>
+      <!-- Laravel -->
+      <rect x="56" y="0" width="62" height="22" rx="4" fill="#FF2D20"/>
+      <text x="87" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">Laravel</text>
+      <!-- MySQL -->
+      <rect x="124" y="0" width="60" height="22" rx="4" fill="#4479A1"/>
+      <text x="154" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">MySQL</text>
+      <!-- REST APIs -->
+      <rect x="190" y="0" width="76" height="22" rx="4" fill="#0284C7"/>
+      <text x="228" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">REST APIs</text>
+    </g>
+
+    <!-- 2. Frontend & Scripting -->
+    <text x="0" y="142" class="section-cat">Frontend &amp; Scripting</text>
+    <text x="0" y="166" class="section-detail">• HTML5, JavaScript, Tailwind CSS, Ajax</text>
+    
+    <!-- Frontend Badges -->
+    <g transform="translate(0, 178)">
+      <!-- JavaScript -->
+      <rect x="0" y="0" width="78" height="22" rx="4" fill="#F7DF1E"/>
+      <text x="39" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#000" text-anchor="middle">JavaScript</text>
+      <!-- Tailwind CSS -->
+      <rect x="84" y="0" width="88" height="22" rx="4" fill="#38B2AC"/>
+      <text x="128" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">Tailwind CSS</text>
+      <!-- HTML5 -->
+      <rect x="178" y="0" width="58" height="22" rx="4" fill="#E34F26"/>
+      <text x="207" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">HTML5</text>
+      <!-- Ajax -->
+      <rect x="242" y="0" width="46" height="22" rx="4" fill="#2563EB"/>
+      <text x="265" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">Ajax</text>
+    </g>
+
+    <!-- 3. DevOps & Version Control -->
+    <text x="0" y="235" class="section-cat">DevOps &amp; Version Control</text>
+    <text x="0" y="259" class="section-detail">• Git, GitHub, cPanel Live Server Deployment</text>
+    
+    <!-- DevOps Badges -->
+    <g transform="translate(0, 271)">
+      <!-- Git -->
+      <rect x="0" y="0" width="42" height="22" rx="4" fill="#F05032"/>
+      <text x="21" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">Git</text>
+      <!-- GitHub -->
+      <rect x="48" y="0" width="60" height="22" rx="4" fill="#24292E"/>
+      <text x="78" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">GitHub</text>
+      <!-- cPanel -->
+      <rect x="114" y="0" width="58" height="22" rx="4" fill="#FF6C2C"/>
+      <text x="143" y="15" font-family="sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">cPanel</text>
+    </g>
+  </g>
+
+  <!-- Right Side: Developer Animated Workspace GIF -->
+  <g clip-path="url(#gif-rounded)">
+    <image xlink:href="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" x="520" y="25" width="290" height="290" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+</svg>
