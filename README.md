@@ -17,16 +17,12 @@
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles.
 <p align="left">
   <!-- Email Badge -->
-  <a href="mailto:tushitmaisuriya@gmail.com">
+  <a href="mailto:tushitmaisuriya@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- LinkedIn Badge (Add your direct profile slug here) -->
-  <a href="https://linkedin.com/in/tushit-maisuriya](https://www.linkedin.com/in/tushit-maisuriya-ba6b15302">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/tushit-maisuriya-ba6b15302/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Phone / WhatsApp Badge -->
-  <a href="https://wa.me/918849439047">
-    <img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
