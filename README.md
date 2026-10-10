@@ -9,7 +9,7 @@
 
 <!-- Profile Hero Banner Card -->
 <p align="left">
-  <img src="hero-card.svg" alt="Tushit Maisuriya Banner" width="100%" />
+  <img src="profile-char.png" alt="Tushit Maisuriya Banner" width="100%" />
 </p>
 
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
