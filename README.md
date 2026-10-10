@@ -9,7 +9,7 @@
 
 <!-- Profile Hero Card (Div-based, Transparent & Theme Adaptive) -->
 <div>
-  <img align="right" src="b522c73f-7be9-46b6-8665-f19e7fbbc14d-removebg-preview.jpg" alt="Tushit Anime Avatar" width="165" />
+  <img align="right" src="profile-char.png" alt="Tushit Anime Avatar" width="165" />
   <h1>TUSHIT MAISURIYA</h1>
   <p>
     Laravel Backend Developer | PHP &amp; MySQL<br/>
