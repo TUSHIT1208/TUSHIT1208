@@ -8,22 +8,9 @@
 <br/><br/>
 
 <!-- Profile Hero Card (Monica Powell Reference Layout) -->
-<table width="100%">
-  <tr>
-    <td width="72%" valign="middle" align="left">
-      <h1>TUSHIT MAISURIYA</h1>
-      <p>
-        <font color="#64748B">
-          Laravel Backend Developer | PHP &amp; MySQL<br/>
-          RESTful APIs | Database Management
-        </font>
-      </p>
-    </td>
-    <td width="28%" valign="middle" align="right">
-      <img src="profile-char.png" width="160" alt="Tushit Anime Avatar" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="hero-card.svg" alt="Tushit Maisuriya Banner" width="100%" />
+</p>
 
 <br/>
 
