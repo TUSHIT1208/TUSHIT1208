@@ -17,9 +17,18 @@
 I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
 <p align="left">
-  <a href="mailto:tushitmaisuriya@gmail.com"><img src="https://img.shields.io/badge/Email-tushitmaisuriya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+918849439047"><img src="https://img.shields.io/badge/Phone-%2B91%208849439047-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <!-- Email Badge -->
+  <a href="mailto:tushitmaisuriya@gmail.com">
+    <img src="https://img.shields.io/badge/tushitmaisuriya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- LinkedIn Badge (Add your direct profile slug here) -->
+  <a href="https://linkedin.com/in/tushit-maisuriya">
+    <img src="https://img.shields.io/badge/Tushit%20Maisuriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Phone / WhatsApp Badge -->
+  <a href="https://wa.me/918849439047">
+    <img src="https://img.shields.io/badge/%2B91%208849439047-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 ---
