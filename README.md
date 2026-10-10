@@ -7,20 +7,12 @@
 
 <br/><br/>
 
-<!-- Profile Hero Card (Div-based, Transparent & Theme Adaptive) -->
-<div>
-  <img align="right" src="profile-char.png" alt="Tushit Anime Avatar" width="165" />
-  <h1>TUSHIT MAISURIYA</h1>
-  <p>
-    Laravel Backend Developer | PHP &amp; MySQL<br/>
-    RESTful APIs | Database Management
-  </p>
-</div>
+<!-- Hero Card Banner -->
+<p align="left">
+  <img src="profile-char.png" alt="Tushit Maisuriya Banner" width="100%" />
+</p>
 
-<br clear="both"/>
-<br/>
-
-I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles. Always keen to tackle complex engineering challenges and build reliable, scalable web software.
+I am a backend developer specializing in architecting robust web applications with PHP, Laravel, and MySQL[cite: 1]. My focus centers on clean MVC design, Eloquent ORM performance, scalable relational database structures, and production-ready business logic[cite: 1]. With hands-on experience handling live server deployments via cPanel, routine backups, and active debugging, I turn complex business requirements into stable digital workflows[cite: 1]. Alongside strong backend fundamentals, I utilize Tailwind CSS, JavaScript, and Git to maintain clean code and collaborative development cycles[cite: 1]. Always keen to tackle complex engineering challenges and build reliable, scalable web software[cite: 1].
 
 <p align="left">
   <a href="mailto:tushitmaisuriya@gmail.com"><img src="https://img.shields.io/badge/Email-tushitmaisuriya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -41,12 +33,12 @@ I am a backend developer specializing in architecting robust web applications wi
 ### 📌 Highlighted Projects
 
 * **CodePilot**  
-  An interactive online developer training platform featuring integrated tutorials and an in-browser debugger that eliminates local setup requirements for learners.  
-  `Stack: Laravel, Tailwind CSS, Ajax, JavaScript`
+  An interactive online developer training platform featuring integrated tutorials and an in-browser debugger that eliminates local setup requirements for learners[cite: 1].  
+  `Stack: Laravel, Tailwind CSS, Ajax, JavaScript`[cite: 1]
 
 * **Krishna Catering Web Application**  
-  A complete commercial web platform featuring complex calculation-based backend logic, MySQL management, and live cPanel production deployments.  
-  `Stack: Laravel, MySQL, cPanel`
+  A complete commercial web platform featuring complex calculation-based backend logic, MySQL management, and live cPanel production deployments[cite: 1].  
+  `Stack: Laravel, MySQL, cPanel`[cite: 1]
 
 ---
 
@@ -57,8 +49,8 @@ I am a backend developer specializing in architecting robust web applications wi
     <td width="60%" valign="top">
 
 **Backend & Databases**
-- PHP, Laravel, MySQL, RESTful APIs
-- Eloquent ORM, Database Migrations, MVC Architecture
+- PHP, Laravel, MySQL, RESTful APIs[cite: 1]
+- Eloquent ORM, Database Migrations, MVC Architecture[cite: 1]
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -68,7 +60,7 @@ I am a backend developer specializing in architecting robust web applications wi
 </p>
 
 **Frontend & Scripting**
-- HTML5, JavaScript, Tailwind CSS, Ajax
+- HTML5, JavaScript, Tailwind CSS, Ajax[cite: 1]
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -78,7 +70,7 @@ I am a backend developer specializing in architecting robust web applications wi
 </p>
 
 **DevOps & Version Control**
-- Git, GitHub, cPanel live server deployment
+- Git, GitHub, cPanel live server deployment[cite: 1]
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
