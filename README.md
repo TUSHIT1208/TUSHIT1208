@@ -55,8 +55,6 @@ I am a backend developer specializing in architecting robust web applications wi
 
 ### 🛠️ Tech Stack & Skills
 
-### 🛠️ Tech Stack & Skills
-
 <p align="left">
   <img src="tech-stack.svg" alt="Tushit Tech Stack & Skills" width="100%" />
 </p>
