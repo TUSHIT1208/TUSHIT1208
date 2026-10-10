@@ -55,9 +55,45 @@ I am a backend developer specializing in architecting robust web applications wi
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="tech-stack.svg" alt="Tushit Tech Stack & Skills" width="100%" />
-</p>
+### 🛠️ Tech Stack & Skills
+
+<table width="100%" style="background: transparent; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Left Side: Tech Stack Details Card -->
+    <td width="65%" valign="top" style="border: 1.5px solid rgba(56, 189, 248, 0.35); border-radius: 18px; padding: 22px; background: rgba(56, 189, 248, 0.05);">
+      <b>Backend &amp; Databases</b><br/>
+      <font color="#64748B">• PHP, Laravel, MySQL, RESTful APIs</font><br/>
+      <font color="#64748B">• Eloquent ORM, Database Migrations, MVC Architecture</font><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
+      </p>
+      <br/>
+      <b>Frontend &amp; Scripting</b><br/>
+      <font color="#64748B">• HTML5, JavaScript, Tailwind CSS, Ajax</font><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/Ajax-232733?style=flat-square&logo=ajax&logoColor=white" alt="Ajax" />
+      </p>
+      <br/>
+      <b>DevOps &amp; Version Control</b><br/>
+      <font color="#64748B">• Git, GitHub, cPanel live server deployment</font><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+      </p>
+    </td>
+    <!-- Right Side: Clean Animated Developer GIF -->
+    <td width="35%" align="center" valign="middle" style="border: none; padding-left: 20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer GIF" style="border-radius: 16px; display: block;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
