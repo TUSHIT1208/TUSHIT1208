@@ -8,17 +8,9 @@
 <br/>
 
 <!-- Profile Hero Banner Card (Monica Powell Style) -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="middle" style="padding: 20px;">
-      <h1>TUSHIT MAISURIYA</h1>
-      <h3>Laravel Backend Developer | PHP, MySQL | RESTful APIs | Database Management</h3>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Ghibli Boy with Laptop" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="hero-card.svg" alt="Tushit Maisuriya - Hero Card" width="100%" />
+</p>
 
 <br/>
 
